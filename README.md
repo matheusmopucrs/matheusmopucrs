@@ -7,11 +7,11 @@
 ****
 
 <p align="center" style="margin-top:30px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdoMatheus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdoMatheus" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmopucrs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdoMatheus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdoMatheus&show_icons=true&theme=dracula&locale=en" alt="mdoMatheus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusmopucrs&show_icons=true&theme=dracula&locale=en" alt="mdoMatheus" />
 </p>
 
 ****
